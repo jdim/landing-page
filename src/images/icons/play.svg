@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  height="85"
+  width="85"
+  version="1.1"
+  viewBox="0 0 85 85"
+  preserveAspectRatio="xMinYMin meet"
+>
+  <circle cx="42.5" cy="42.5" r="40" fill="#10c9c3" />
+  <polygon points="37,33.5 47,42.5 37,51.5" fill="#fff" />
+</svg>
