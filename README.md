@@ -1,4 +1,4 @@
-# Static website - Landing page (demo)
+# Landing page example
 
 ## To run locally
 
